@@ -22,6 +22,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/realcyclopse/LEET/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/realcyclopse/LEET/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +30,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/realcyclopse/LEET/tree/master/0125-valid-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
