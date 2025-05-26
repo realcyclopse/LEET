@@ -28,6 +28,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/realcyclopse/LEET/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/realcyclopse/LEET/tree/master/0141-linked-list-cycle) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -78,8 +80,21 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/0004-median-of-two-sorted-arrays) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Counting
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
