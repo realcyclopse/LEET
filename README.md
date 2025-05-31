@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0088-merge-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [3194-find-words-containing-character](https://github.com/realcyclopse/LEET/tree/master/3194-find-words-containing-character) |
 ## Divide and Conquer
 |  |
@@ -63,6 +64,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0048-rotate-image](https://github.com/realcyclopse/LEET/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/realcyclopse/LEET/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +115,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/realcyclopse/LEET/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
