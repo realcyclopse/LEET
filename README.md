@@ -16,6 +16,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/realcyclopse/LEET/tree/master/0135-candy) |
+| [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3194-find-words-containing-character](https://github.com/realcyclopse/LEET/tree/master/3194-find-words-containing-character) |
@@ -40,6 +41,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0088-merge-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/realcyclopse/LEET/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/realcyclopse/LEET/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
 ## Graph
 |  |
 | ------- |
@@ -137,4 +140,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/realcyclopse/LEET/tree/master/3201-distribute-candies-among-children-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
