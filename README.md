@@ -53,6 +53,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0020-valid-parentheses](https://github.com/realcyclopse/LEET/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/realcyclopse/LEET/tree/master/0125-valid-palindrome) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/realcyclopse/LEET/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
 | [3194-find-words-containing-character](https://github.com/realcyclopse/LEET/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/realcyclopse/LEET/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -147,4 +148,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/realcyclopse/LEET/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
