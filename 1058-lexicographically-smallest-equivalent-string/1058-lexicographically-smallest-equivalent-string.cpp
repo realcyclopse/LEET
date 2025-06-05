@@ -1,34 +1,30 @@
 class Solution {
 public:
-    char dfs(unordered_map<char, vector<char>>& adj, char cur, vector<int>& vis) {
-        vis[cur - 'a'] = 1;
-        char minChar = cur;
-        for (char neighbor : adj[cur]) {
-            if (vis[neighbor - 'a'] == 0) {
-                minChar = min(minChar, dfs(adj, neighbor, vis));
-            }
-        }
-        return minChar;
+    int par[26];
+    
+    int find(int x){
+        if(par[x]==-1) return x;
+        return par[x]=find(par[x]);
     }
-
+    
+    void Union(int x, int y) {
+        x = find(x);
+        y = find(y);
+        
+        if (x != y) 
+            par[max(x, y)] = min(x, y); 
+    }
+	
     string smallestEquivalentString(string s1, string s2, string baseStr) {
-        int n = s1.length();
-        unordered_map<char, vector<char>> adj;
+        
+        memset(par, -1, sizeof(par));
+        
+        for (auto i = 0; i < s1.size(); ++i) 
+            Union(s1[i] - 'a', s2[i] - 'a');
+        
+        for(auto i=0;i<baseStr.size();i++) 
+            baseStr[i]=find(baseStr[i]-'a')+'a';
 
-        for (int i = 0; i < n; ++i) {
-            char u = s1[i];
-            char v = s2[i];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-
-        string result;
-        for (char ch : baseStr) {
-            vector<int> vis(26, 0);
-            char minChar = dfs(adj, ch, vis);
-            result.push_back(minChar);
-        }
-
-        return result;
+        return baseStr;
     }
 };
