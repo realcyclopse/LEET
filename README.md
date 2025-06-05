@@ -42,6 +42,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0125-valid-palindrome](https://github.com/realcyclopse/LEET/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/realcyclopse/LEET/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/realcyclopse/LEET/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0125-valid-palindrome](https://github.com/realcyclopse/LEET/tree/master/0125-valid-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
 | [3194-find-words-containing-character](https://github.com/realcyclopse/LEET/tree/master/3194-find-words-containing-character) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/realcyclopse/LEET/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/realcyclopse/LEET/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/realcyclopse/LEET/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bit Manipulation
 |  |
 | ------- |
