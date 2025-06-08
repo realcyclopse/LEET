@@ -16,6 +16,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/realcyclopse/LEET/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/realcyclopse/LEET/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -156,6 +157,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/realcyclopse/LEET/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
 ## Union Find
 |  |
