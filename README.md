@@ -21,6 +21,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3194-find-words-containing-character](https://github.com/realcyclopse/LEET/tree/master/3194-find-words-containing-character) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/realcyclopse/LEET/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Divide and Conquer
 |  |
 | ------- |
