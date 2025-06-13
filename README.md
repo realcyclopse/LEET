@@ -17,6 +17,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/realcyclopse/LEET/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/realcyclopse/LEET/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -28,6 +29,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/realcyclopse/LEET/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0075-sort-colors](https://github.com/realcyclopse/LEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -75,6 +78,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/realcyclopse/LEET/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/realcyclopse/LEET/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/realcyclopse/LEET/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -124,6 +128,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/realcyclopse/LEET/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
