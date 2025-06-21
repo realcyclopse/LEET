@@ -56,6 +56,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0075-sort-colors](https://github.com/realcyclopse/LEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/realcyclopse/LEET/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/realcyclopse/LEET/tree/master/3194-find-words-containing-character) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/realcyclopse/LEET/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/realcyclopse/LEET/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/realcyclopse/LEET/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/realcyclopse/LEET/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -83,6 +85,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/realcyclopse/LEET/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/realcyclopse/LEET/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/realcyclopse/LEET/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -133,6 +136,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/realcyclopse/LEET/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/realcyclopse/LEET/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
 |  |
@@ -160,6 +164,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/realcyclopse/LEET/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/realcyclopse/LEET/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/realcyclopse/LEET/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/realcyclopse/LEET/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Combinatorics
 |  |
