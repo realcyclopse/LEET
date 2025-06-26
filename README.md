@@ -15,6 +15,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0088-merge-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/realcyclopse/LEET/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/realcyclopse/LEET/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/realcyclopse/LEET/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
@@ -86,6 +87,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/realcyclopse/LEET/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/realcyclopse/LEET/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/realcyclopse/LEET/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -193,6 +195,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/realcyclopse/LEET/tree/master/0128-longest-consecutive-sequence) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/realcyclopse/LEET/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Heap (Priority Queue)
 |  |
