@@ -41,6 +41,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/realcyclopse/LEET/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0125-valid-palindrome](https://github.com/realcyclopse/LEET/tree/master/0125-valid-palindrome) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/realcyclopse/LEET/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/realcyclopse/LEET/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/realcyclopse/LEET/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/realcyclopse/LEET/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -119,6 +121,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/realcyclopse/LEET/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +169,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0135-candy](https://github.com/realcyclopse/LEET/tree/master/0135-candy) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/realcyclopse/LEET/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/realcyclopse/LEET/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/realcyclopse/LEET/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
