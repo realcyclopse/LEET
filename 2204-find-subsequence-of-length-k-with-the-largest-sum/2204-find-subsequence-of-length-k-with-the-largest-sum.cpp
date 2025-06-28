@@ -1,30 +1,33 @@
 class Solution {
 public:
     vector<int> maxSubsequence(vector<int>& nums, int k) {
-		// Declare variables
-        int n = nums.size(), i = 0, t = k;
-		// Answer Array
-        vector<int> ans;
-		
-		// Put first k elements
-        while(t>0){
-            ans.push_back(nums[i]);
-            i++;
-            t--;
+        int n = nums.size();
+        vector<pair<int, int>> valIndex;
+
+        // Step 1: Store value and original index
+        for (int i = 0; i < n; ++i) {
+            valIndex.push_back({nums[i], i});
         }
-		
-		//Loop Through Remaining Array
-        for(int j=i;j<n;j++)
-        {
-			// Calcualate minimum from ans array 
-            int mini = min_element(ans.begin(), ans.end()) - ans.begin();
-			// Comapre it with the current element
-            if(ans[mini] < nums[j]){
-                ans.erase(ans.begin()+mini);
-                ans.push_back(nums[j]);
-            }
-            
+
+        // Step 2: Sort by value in descending order
+        sort(valIndex.begin(), valIndex.end(), [](auto &a, auto &b) {
+            return a.first > b.first;
+        });
+
+        // Step 3: Take top k elements (value, index)
+        vector<pair<int, int>> topK(valIndex.begin(), valIndex.begin() + k);
+
+        // Step 4: Sort top k elements by original index
+        sort(topK.begin(), topK.end(), [](auto &a, auto &b) {
+            return a.second < b.second;
+        });
+
+        // Step 5: Build the result from sorted indices
+        vector<int> result;
+        for (auto &p : topK) {
+            result.push_back(p.first);
         }
-        return ans;
+
+        return result;
     }
 };
