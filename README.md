@@ -24,6 +24,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/realcyclopse/LEET/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/realcyclopse/LEET/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/realcyclopse/LEET/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/realcyclopse/LEET/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -62,6 +63,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0075-sort-colors](https://github.com/realcyclopse/LEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/realcyclopse/LEET/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/realcyclopse/LEET/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
 |  |
@@ -93,6 +95,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0141-linked-list-cycle](https://github.com/realcyclopse/LEET/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/realcyclopse/LEET/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/realcyclopse/LEET/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/realcyclopse/LEET/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -206,6 +209,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/realcyclopse/LEET/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/realcyclopse/LEET/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
