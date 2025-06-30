@@ -8,6 +8,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/realcyclopse/LEET/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/realcyclopse/LEET/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/realcyclopse/LEET/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/realcyclopse/LEET/tree/master/0053-maximum-subarray) |
@@ -143,6 +144,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/realcyclopse/LEET/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/realcyclopse/LEET/tree/master/0792-binary-search) |
