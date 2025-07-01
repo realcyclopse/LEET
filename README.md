@@ -91,6 +91,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [3617-find-the-original-typed-string-i](https://github.com/realcyclopse/LEET/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/realcyclopse/LEET/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/realcyclopse/LEET/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/realcyclopse/LEET/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -215,6 +216,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [2202-sum-of-k-mirror-numbers](https://github.com/realcyclopse/LEET/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/realcyclopse/LEET/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/realcyclopse/LEET/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/realcyclopse/LEET/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,4 +248,9 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/realcyclopse/LEET/tree/master/0594-longest-harmonious-subsequence) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/realcyclopse/LEET/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/realcyclopse/LEET/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
