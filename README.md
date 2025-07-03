@@ -96,6 +96,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/realcyclopse/LEET/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/realcyclopse/LEET/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/realcyclopse/LEET/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -260,6 +261,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/realcyclopse/LEET/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/realcyclopse/LEET/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
