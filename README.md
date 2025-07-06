@@ -24,6 +24,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/realcyclopse/LEET/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/realcyclopse/LEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/realcyclopse/LEET/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
@@ -98,6 +99,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0020-valid-parentheses](https://github.com/realcyclopse/LEET/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/realcyclopse/LEET/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/realcyclopse/LEET/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/realcyclopse/LEET/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -109,6 +111,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0141-linked-list-cycle](https://github.com/realcyclopse/LEET/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/realcyclopse/LEET/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/realcyclopse/LEET/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/realcyclopse/LEET/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -267,4 +270,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/realcyclopse/LEET/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
