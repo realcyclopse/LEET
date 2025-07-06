@@ -25,6 +25,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0229-majority-element-ii](https://github.com/realcyclopse/LEET/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/realcyclopse/LEET/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/realcyclopse/LEET/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/realcyclopse/LEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/realcyclopse/LEET/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
@@ -100,6 +101,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0155-min-stack](https://github.com/realcyclopse/LEET/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/realcyclopse/LEET/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/realcyclopse/LEET/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/realcyclopse/LEET/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -274,4 +276,5 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/realcyclopse/LEET/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
