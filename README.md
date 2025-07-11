@@ -7,6 +7,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/realcyclopse/LEET/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/realcyclopse/LEET/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/realcyclopse/LEET/tree/master/0035-search-insert-position) |
@@ -56,6 +57,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/realcyclopse/LEET/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/realcyclopse/LEET/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/realcyclopse/LEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0088-merge-sorted-array) |
@@ -69,6 +71,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/realcyclopse/LEET/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/realcyclopse/LEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
