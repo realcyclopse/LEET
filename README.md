@@ -33,6 +33,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0540-single-element-in-a-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/realcyclopse/LEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/realcyclopse/LEET/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/realcyclopse/LEET/tree/master/0890-lemonade-change) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/realcyclopse/LEET/tree/master/1046-max-consecutive-ones-iii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -225,6 +226,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0135-candy](https://github.com/realcyclopse/LEET/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/realcyclopse/LEET/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/realcyclopse/LEET/tree/master/0890-lemonade-change) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/realcyclopse/LEET/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/realcyclopse/LEET/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
