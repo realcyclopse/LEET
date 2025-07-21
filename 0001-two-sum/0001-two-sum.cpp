@@ -10,6 +10,7 @@ public:
             {
                 a[0]=m[d];
                 a[1]=i;
+                break;
 
             }
             m[nums[i]]=i;
