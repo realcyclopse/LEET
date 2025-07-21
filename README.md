@@ -87,6 +87,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/realcyclopse/LEET/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/realcyclopse/LEET/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/realcyclopse/LEET/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/realcyclopse/LEET/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/realcyclopse/LEET/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/realcyclopse/LEET/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -98,6 +99,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0003-longest-substring-without-repeating-characters](https://github.com/realcyclopse/LEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/realcyclopse/LEET/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/realcyclopse/LEET/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/realcyclopse/LEET/tree/master/0242-valid-anagram) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/realcyclopse/LEET/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/realcyclopse/LEET/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -131,6 +133,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/realcyclopse/LEET/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/realcyclopse/LEET/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/realcyclopse/LEET/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/realcyclopse/LEET/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
