@@ -12,6 +12,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0031-next-permutation](https://github.com/realcyclopse/LEET/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/realcyclopse/LEET/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/realcyclopse/LEET/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/realcyclopse/LEET/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/realcyclopse/LEET/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/realcyclopse/LEET/tree/master/0055-jump-game) |
@@ -57,6 +58,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/realcyclopse/LEET/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/realcyclopse/LEET/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/realcyclopse/LEET/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
@@ -237,6 +239,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/realcyclopse/LEET/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/realcyclopse/LEET/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/realcyclopse/LEET/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/realcyclopse/LEET/tree/master/0455-assign-cookies) |
