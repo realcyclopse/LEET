@@ -14,6 +14,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0035-search-insert-position](https://github.com/realcyclopse/LEET/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/realcyclopse/LEET/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/realcyclopse/LEET/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/realcyclopse/LEET/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/realcyclopse/LEET/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/realcyclopse/LEET/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/realcyclopse/LEET/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/realcyclopse/LEET/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/realcyclopse/LEET/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/realcyclopse/LEET/tree/master/0678-valid-parenthesis-string) |
@@ -235,6 +237,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/realcyclopse/LEET/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/realcyclopse/LEET/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/realcyclopse/LEET/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/realcyclopse/LEET/tree/master/0678-valid-parenthesis-string) |
