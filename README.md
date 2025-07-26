@@ -8,6 +8,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0001-two-sum](https://github.com/realcyclopse/LEET/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/realcyclopse/LEET/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/realcyclopse/LEET/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/realcyclopse/LEET/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0033-search-in-rotated-sorted-array) |
@@ -74,6 +75,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/realcyclopse/LEET/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/realcyclopse/LEET/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/realcyclopse/LEET/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/realcyclopse/LEET/tree/master/0075-sort-colors) |
@@ -248,6 +250,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/realcyclopse/LEET/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/realcyclopse/LEET/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/realcyclopse/LEET/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/realcyclopse/LEET/tree/master/0135-candy) |
