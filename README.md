@@ -131,6 +131,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/realcyclopse/LEET/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/realcyclopse/LEET/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/realcyclopse/LEET/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
@@ -231,11 +232,13 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/realcyclopse/LEET/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/realcyclopse/LEET/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/realcyclopse/LEET/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -341,4 +344,8 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/realcyclopse/LEET/tree/master/0347-top-k-frequent-elements) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
