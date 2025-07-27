@@ -235,6 +235,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/realcyclopse/LEET/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -242,6 +243,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/realcyclopse/LEET/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/realcyclopse/LEET/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -249,6 +251,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -352,4 +355,5 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
