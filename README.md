@@ -68,6 +68,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0055-jump-game](https://github.com/realcyclopse/LEET/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/realcyclopse/LEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/realcyclopse/LEET/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -236,6 +237,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0094-binary-tree-inorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/realcyclopse/LEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0543-diameter-of-binary-tree) |
@@ -247,6 +249,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0094-binary-tree-inorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/realcyclopse/LEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/realcyclopse/LEET/tree/master/0386-lexicographical-numbers) |
@@ -363,6 +366,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0094-binary-tree-inorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/realcyclopse/LEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0543-diameter-of-binary-tree) |
