@@ -242,6 +242,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/realcyclopse/LEET/tree/master/0572-subtree-of-another-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/realcyclopse/LEET/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
@@ -256,6 +257,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/realcyclopse/LEET/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/realcyclopse/LEET/tree/master/0572-subtree-of-another-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/realcyclopse/LEET/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/realcyclopse/LEET/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -374,4 +376,13 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0144-binary-tree-preorder-traversal](https://github.com/realcyclopse/LEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/realcyclopse/LEET/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/realcyclopse/LEET/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/realcyclopse/LEET/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
