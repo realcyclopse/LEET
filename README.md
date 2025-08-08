@@ -213,6 +213,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/realcyclopse/LEET/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/realcyclopse/LEET/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -257,6 +258,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/realcyclopse/LEET/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/realcyclopse/LEET/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/realcyclopse/LEET/tree/master/0572-subtree-of-another-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/realcyclopse/LEET/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -267,6 +269,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0100-same-tree](https://github.com/realcyclopse/LEET/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/realcyclopse/LEET/tree/master/0547-number-of-provinces) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -310,6 +313,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/realcyclopse/LEET/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/realcyclopse/LEET/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/realcyclopse/LEET/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Heap (Priority Queue)
 |  |
