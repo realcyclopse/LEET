@@ -43,6 +43,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0792-binary-search](https://github.com/realcyclopse/LEET/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/realcyclopse/LEET/tree/master/0890-lemonade-change) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/realcyclopse/LEET/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/realcyclopse/LEET/tree/master/1046-max-consecutive-ones-iii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/realcyclopse/LEET/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -169,6 +170,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0048-rotate-image](https://github.com/realcyclopse/LEET/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/realcyclopse/LEET/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/realcyclopse/LEET/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -271,6 +273,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/realcyclopse/LEET/tree/master/0547-number-of-provinces) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/realcyclopse/LEET/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/realcyclopse/LEET/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
