@@ -39,6 +39,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0496-next-greater-element-i](https://github.com/realcyclopse/LEET/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/realcyclopse/LEET/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/realcyclopse/LEET/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/realcyclopse/LEET/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/realcyclopse/LEET/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/realcyclopse/LEET/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/realcyclopse/LEET/tree/master/0792-binary-search) |
@@ -71,6 +72,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/realcyclopse/LEET/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/realcyclopse/LEET/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/realcyclopse/LEET/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -170,6 +172,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0048-rotate-image](https://github.com/realcyclopse/LEET/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/realcyclopse/LEET/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/realcyclopse/LEET/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/realcyclopse/LEET/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/realcyclopse/LEET/tree/master/1036-rotting-oranges) |
@@ -274,6 +277,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0100-same-tree](https://github.com/realcyclopse/LEET/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/realcyclopse/LEET/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/realcyclopse/LEET/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/realcyclopse/LEET/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
