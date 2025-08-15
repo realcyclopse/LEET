@@ -120,6 +120,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0003-longest-substring-without-repeating-characters](https://github.com/realcyclopse/LEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/realcyclopse/LEET/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/realcyclopse/LEET/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/realcyclopse/LEET/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/realcyclopse/LEET/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/realcyclopse/LEET/tree/master/0678-valid-parenthesis-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/realcyclopse/LEET/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -154,6 +155,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0001-two-sum](https://github.com/realcyclopse/LEET/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/realcyclopse/LEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/realcyclopse/LEET/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/realcyclopse/LEET/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/realcyclopse/LEET/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/realcyclopse/LEET/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/realcyclopse/LEET/tree/master/0169-majority-element) |
@@ -282,6 +284,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0100-same-tree](https://github.com/realcyclopse/LEET/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/realcyclopse/LEET/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/realcyclopse/LEET/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/realcyclopse/LEET/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/realcyclopse/LEET/tree/master/0542-01-matrix) |
