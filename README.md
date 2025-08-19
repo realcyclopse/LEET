@@ -230,6 +230,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0210-course-schedule-ii](https://github.com/realcyclopse/LEET/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/realcyclopse/LEET/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/realcyclopse/LEET/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/realcyclopse/LEET/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/realcyclopse/LEET/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -238,6 +239,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0207-course-schedule](https://github.com/realcyclopse/LEET/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/realcyclopse/LEET/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/realcyclopse/LEET/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Counting
 |  |
@@ -283,6 +285,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0572-subtree-of-another-tree](https://github.com/realcyclopse/LEET/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/realcyclopse/LEET/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/realcyclopse/LEET/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/realcyclopse/LEET/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/realcyclopse/LEET/tree/master/1073-number-of-enclaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/realcyclopse/LEET/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -301,6 +304,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0547-number-of-provinces](https://github.com/realcyclopse/LEET/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/realcyclopse/LEET/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/realcyclopse/LEET/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/realcyclopse/LEET/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/realcyclopse/LEET/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/realcyclopse/LEET/tree/master/1073-number-of-enclaves) |
