@@ -49,6 +49,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [1036-rotting-oranges](https://github.com/realcyclopse/LEET/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/realcyclopse/LEET/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/realcyclopse/LEET/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/realcyclopse/LEET/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/realcyclopse/LEET/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -182,6 +183,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/realcyclopse/LEET/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/realcyclopse/LEET/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/realcyclopse/LEET/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -308,6 +310,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0945-snakes-and-ladders](https://github.com/realcyclopse/LEET/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/realcyclopse/LEET/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/realcyclopse/LEET/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/realcyclopse/LEET/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/realcyclopse/LEET/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
