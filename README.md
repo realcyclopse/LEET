@@ -52,6 +52,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [1171-shortest-path-in-binary-matrix](https://github.com/realcyclopse/LEET/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/realcyclopse/LEET/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1753-path-with-minimum-effort](https://github.com/realcyclopse/LEET/tree/master/1753-path-with-minimum-effort) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/realcyclopse/LEET/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/realcyclopse/LEET/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -184,6 +185,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [1036-rotting-oranges](https://github.com/realcyclopse/LEET/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/realcyclopse/LEET/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/realcyclopse/LEET/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/realcyclopse/LEET/tree/master/1753-path-with-minimum-effort) |
 ## Linked List
 |  |
 | ------- |
@@ -223,6 +225,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0792-binary-search](https://github.com/realcyclopse/LEET/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/realcyclopse/LEET/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/realcyclopse/LEET/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1753-path-with-minimum-effort](https://github.com/realcyclopse/LEET/tree/master/1753-path-with-minimum-effort) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/realcyclopse/LEET/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/realcyclopse/LEET/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
@@ -289,6 +292,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0801-is-graph-bipartite](https://github.com/realcyclopse/LEET/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/realcyclopse/LEET/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/realcyclopse/LEET/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/realcyclopse/LEET/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/realcyclopse/LEET/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/realcyclopse/LEET/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -312,6 +316,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [1073-number-of-enclaves](https://github.com/realcyclopse/LEET/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/realcyclopse/LEET/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/realcyclopse/LEET/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1753-path-with-minimum-effort](https://github.com/realcyclopse/LEET/tree/master/1753-path-with-minimum-effort) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/realcyclopse/LEET/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/realcyclopse/LEET/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Greedy
@@ -358,10 +363,12 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0801-is-graph-bipartite](https://github.com/realcyclopse/LEET/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/realcyclopse/LEET/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/realcyclopse/LEET/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/realcyclopse/LEET/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/realcyclopse/LEET/tree/master/0347-top-k-frequent-elements) |
+| [1753-path-with-minimum-effort](https://github.com/realcyclopse/LEET/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/realcyclopse/LEET/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/realcyclopse/LEET/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
