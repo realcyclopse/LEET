@@ -202,6 +202,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/realcyclopse/LEET/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/realcyclopse/LEET/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/realcyclopse/LEET/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/realcyclopse/LEET/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -211,6 +212,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/realcyclopse/LEET/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
