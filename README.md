@@ -204,6 +204,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0048-rotate-image](https://github.com/realcyclopse/LEET/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/realcyclopse/LEET/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/realcyclopse/LEET/tree/master/1922-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/realcyclopse/LEET/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/realcyclopse/LEET/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/realcyclopse/LEET/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -214,6 +215,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0050-powx-n](https://github.com/realcyclopse/LEET/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/realcyclopse/LEET/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
