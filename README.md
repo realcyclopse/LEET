@@ -74,6 +74,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [0045-jump-game-ii](https://github.com/realcyclopse/LEET/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/realcyclopse/LEET/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/realcyclopse/LEET/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/realcyclopse/LEET/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/realcyclopse/LEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/realcyclopse/LEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/realcyclopse/LEET/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -204,6 +205,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0048-rotate-image](https://github.com/realcyclopse/LEET/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/realcyclopse/LEET/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/realcyclopse/LEET/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/realcyclopse/LEET/tree/master/1922-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/realcyclopse/LEET/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -220,6 +222,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/realcyclopse/LEET/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/realcyclopse/LEET/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/realcyclopse/LEET/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/realcyclopse/LEET/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
