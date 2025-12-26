@@ -136,6 +136,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | [1078-remove-outermost-parentheses](https://github.com/realcyclopse/LEET/tree/master/1078-remove-outermost-parentheses) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/realcyclopse/LEET/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/realcyclopse/LEET/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/realcyclopse/LEET/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/realcyclopse/LEET/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/realcyclopse/LEET/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/realcyclopse/LEET/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -423,6 +424,7 @@ This repository serves as a collection of my solutions to various Leetcode Data 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/realcyclopse/LEET/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/realcyclopse/LEET/tree/master/1046-max-consecutive-ones-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/realcyclopse/LEET/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/realcyclopse/LEET/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Design
 |  |
